@@ -39,16 +39,17 @@ Led development of a decentralized platform with:
 - Scalable microservices architecture
 - Real-time transaction processing
 
-### ⚡ **ICON Blockchain Projects**
+### ⚡ **ICON** - Healthcare Platform
 
+**Role:** Senior Node.js Developer  
 **Duration:** 3+ Years  
-**Projects:** Who Dun It Cats, Fotra
+**Tech Stack:** Node.js, Healthcare Systems
 
-Deep expertise in ICON ecosystem development:
+Developed healthcare solutions:
 
-- DApp development and deployment
-- Smart contract design and optimization
-- Blockchain infrastructure management
+- Healthcare data management systems
+- Secure patient information handling
+- Backend architecture for healthcare applications
 
 ---
 
